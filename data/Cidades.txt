@@ -1,0 +1,19 @@
+7
+Porto,Cidade das francesinhas,1.0,7.0,3
+Torre dos Clerigos
+Ponte D. Luiz I
+Estadio do Bessa
+Lisboa,Capital de Portugal,0.0,3.0,2
+Padrao dos Descobrimentos
+Estadio da Luz
+Chaves,Cidade na fronteira com Espanha,5.0,10.0,2
+Castelo de Chaves
+Ponte Romana
+Vila Real,Terra do melhor fumeiro,3.0,8.0,0
+Coimbra,Cidade dos estudantes, 2.5,2.7,1
+Portugal dos Pequenitos
+Aveiro,A Veneza portuguesa,1.3,6.0,1
+Ria de Aveiro
+Fatima,Terra da fe e peregrinacoes,1.0,4.0,2
+Santuario de Fatima
+Capelinha das Aparicoes

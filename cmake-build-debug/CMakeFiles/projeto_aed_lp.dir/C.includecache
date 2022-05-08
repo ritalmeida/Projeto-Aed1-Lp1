@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Ritaa/Documents/FACULDADE/projeto_aed_lp/dados.h
+test/teste1.h
+/Users/Ritaa/Documents/FACULDADE/projeto_aed_lp/test/teste1.h
+main.h
+/Users/Ritaa/Documents/FACULDADE/projeto_aed_lp/main.h
+stdlib.h
+-
+printf.h
+-
+string.h
+-
+ficheiros.h
+/Users/Ritaa/Documents/FACULDADE/projeto_aed_lp/ficheiros.h
+
+/Users/Ritaa/Documents/FACULDADE/projeto_aed_lp/ficheiros.c
+ficheiros.h
+/Users/Ritaa/Documents/FACULDADE/projeto_aed_lp/ficheiros.h
+
+/Users/Ritaa/Documents/FACULDADE/projeto_aed_lp/ficheiros.h
+dados.h
+/Users/Ritaa/Documents/FACULDADE/projeto_aed_lp/dados.h
+
+/Users/Ritaa/Documents/FACULDADE/projeto_aed_lp/main.h
+test/teste1.h
+/Users/Ritaa/Documents/FACULDADE/projeto_aed_lp/test/teste1.h
+dados.h
+/Users/Ritaa/Documents/FACULDADE/projeto_aed_lp/dados.h
+ficheiros.h
+/Users/Ritaa/Documents/FACULDADE/projeto_aed_lp/ficheiros.h
+
+/Users/Ritaa/Documents/FACULDADE/projeto_aed_lp/test/teste1.h
+../dados.h
+/Users/Ritaa/Documents/FACULDADE/projeto_aed_lp/dados.h
+../ficheiros.h
+/Users/Ritaa/Documents/FACULDADE/projeto_aed_lp/ficheiros.h
+

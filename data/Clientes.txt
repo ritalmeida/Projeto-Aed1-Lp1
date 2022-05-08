@@ -1,0 +1,25 @@
+3
+Pedro Lopes,Rua das Cores,987654321,220077551,23/04/1991,01/10/2020,134
+2
+1
+Porto,1
+Torre dos Clerigos
+2
+Lisboa,1
+Padrao dos Descobrimentos
+Chaves,1
+Castelo de Chaves
+Amelia Carvalho,Rua Numero Dois,9184756321,178594832,11/03/1982,02/10/2021,230
+1
+1
+Coimbra,1
+Portugal do Pequenitos
+Rui Costa,Rua do Maestro,9373620101,2294009541,04/11/1970,28/02/2019,222
+2
+2
+Faro,0
+Fatima,1
+Santuario de Fatima
+1
+Aveiro,1
+Ria de Aveiro
